@@ -155,7 +155,10 @@ Postgres, and SQLite](https://www.digitalocean.com/community/tutorials/sqlite-vs
 # Getting PGSQL
 
 ### Mac
-
+[Intsallers](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
+<br>
+OR
+<br>
 Install postgres via homebrew
 ```
 brew install postgres
