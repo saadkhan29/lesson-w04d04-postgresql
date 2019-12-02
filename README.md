@@ -214,13 +214,9 @@ Resource bashrc
 source ~/.bashrc
 ```
 
-install postgres gem for rails
-```
-gem install pg
-```
 
 
-- Mac: http://postgresapp.com/
+### Mac: http://postgresapp.com/
 - Download
 - Move it to `/Applications`
 - We want to use it from the command line, so we add it to the search path.
@@ -232,9 +228,10 @@ gem install pg
 - Then open the app and click "Open psql"
 - You should see an elephant icon in the menu bar at the top of your screen.
     
-- Linux
+### Linux
 - `apt-get install postgresql-9.4`
-- All
+
+### All
 - Verify your installation, by running `psql` in your terminal.  You should see:
 
 ```
@@ -244,6 +241,13 @@ Type "help" for help.
 
 matt=#
 ```  
+
+
+
+install postgres gem for rails
+```
+gem install pg
+```
 
 
 
