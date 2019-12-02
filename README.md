@@ -107,8 +107,8 @@ The most popular type of database is a **relational** database. How do they work
 **Communicate via SQL (Structured Query Language)**
 
 - SQL is a database language used specifically for relational databases.
-- This is in contrast to non-relational databases (we've used Mongo) which is essentially Javascript
- 
+- This is in contrast to non-relational databases. <br>
+
 **Can relate data between tables**
 
 - Hence the name *relational* database.
